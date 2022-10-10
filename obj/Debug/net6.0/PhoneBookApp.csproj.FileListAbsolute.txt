@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/PhoneBookApp/bin/Debug/net6.0/PhoneBookApp
+/Users/ugurcanyagmur/Projects/PhoneBookApp/bin/Debug/net6.0/PhoneBookApp.deps.json
+/Users/ugurcanyagmur/Projects/PhoneBookApp/bin/Debug/net6.0/PhoneBookApp.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/PhoneBookApp/bin/Debug/net6.0/PhoneBookApp.dll
+/Users/ugurcanyagmur/Projects/PhoneBookApp/bin/Debug/net6.0/PhoneBookApp.pdb
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.dll
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/refint/PhoneBookApp.dll
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.pdb
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/PhoneBookApp.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/PhoneBookApp/obj/Debug/net6.0/ref/PhoneBookApp.dll
